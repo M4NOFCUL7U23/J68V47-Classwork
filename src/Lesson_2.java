@@ -1,6 +1,7 @@
 import java.util.*;
 public class Lesson_2 {
     public static void main(String[] args) {
+        /**
         System.out.print("Hello World");
 
         //println creates a new line
@@ -32,6 +33,7 @@ public class Lesson_2 {
         System.out.print("What is your first name?");
         String firstName_input = user_input.nextLine();
 
+
         System.out.println("What is your last name?");
         String lastName = user_input.nextLine();
 
@@ -49,5 +51,5 @@ public class Lesson_2 {
         float pi = 3.1415926f;
         double pi2 = 3.14159265358979;
 
-        
+
     }}
