@@ -7,3 +7,5 @@ public class Lesson_1 {
 
         );}
 }
+
+//Exercise 2
