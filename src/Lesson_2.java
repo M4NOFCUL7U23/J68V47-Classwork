@@ -37,4 +37,17 @@ public class Lesson_2 {
 
         System.out.println("Hello" + firstName_input + lastName);
 
+        //How to store numbers
+        int age = 42;
+        System.out.print(age);
+
+        //Other Java Number Types
+        short gears = 3;
+        int median = 103491;
+        long age2 = 222358490;
+
+        float pi = 3.1415926f;
+        double pi2 = 3.14159265358979;
+
+        
     }}
