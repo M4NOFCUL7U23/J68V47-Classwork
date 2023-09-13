@@ -50,6 +50,6 @@ public class Lesson_2 {
 
         float pi = 3.1415926f;
         double pi2 = 3.14159265358979;
-
+        */
 
     }}
