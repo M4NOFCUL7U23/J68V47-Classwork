@@ -7,7 +7,7 @@ public class L4E2 {
         Scanner Question1 = new Scanner(System.in);
         System.out.println("What is the capital of Nigeria?");
         String Q1 = Question1.nextLine();
-        if (Q1.toLowerCase().equals("lagos")) {
+        if (Q1.toUpperCase().equals("lagos")) {
             System.out.println("Sorry, the correct answer is Lagos");
         }
 
@@ -15,14 +15,14 @@ public class L4E2 {
         Scanner Question2 = new Scanner(System.in);
         System.out.println("What is the capital of the Uk?");
         String Q2 = Question2.nextLine();
-        if (Q2.toLowerCase().equals("london")) {
+        if (Q2.toUpperCase().equals("london")) {
             System.out.println("Sorry, the correct answer is London");
         }
 
         Scanner Question3 = new Scanner(System.in);
         System.out.println("What is the capital of Spain?");
         String Q3 = Question3.nextLine();
-        if (Q3.toLowerCase().equals("madrid")) {
+        if (Q3.toUpperCase().equals("madrid")) {
             System.out.println("Sorry, the correct answer is Madrid");
         }
     }
