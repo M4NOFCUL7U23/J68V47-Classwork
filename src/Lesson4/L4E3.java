@@ -19,7 +19,7 @@ public class L4E3 {
         System.out.print("Monthly payment for this loan: ");
         int M = MonthlyPayment.nextInt();
 
-        M = L(j / (1 - (1 + j)^-n));
+
 
 
     }
